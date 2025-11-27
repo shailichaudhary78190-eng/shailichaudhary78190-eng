@@ -2,7 +2,7 @@
   
 # Hi there, I'm Shaili Chaudhary! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Tech+Enthusiast;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Tech+Enthusiast;Always+Learning%2C+Always+Growing&v=2)](https://git.io/typing-svg)
 
 </div>
 
